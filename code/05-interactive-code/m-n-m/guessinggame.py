@@ -1,3 +1,4 @@
+# reviewed by tuo1uoluo-lab
 import random
 
 print("------------------------------")
